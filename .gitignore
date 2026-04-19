@@ -148,6 +148,17 @@ test_outputs/
 *.mkv
 *.flv
 *.wmv
+
+# Test artifacts (generated during testing)
+test_video*.mp4
+test_image*.jpg
+test_image*.png
+test_*.mp4
+test_*.jpg
+test_*.png
+/tmp/
+/scds_wm/
+.tmp_wm/
 *.jpg
 *.jpeg
 *.png
